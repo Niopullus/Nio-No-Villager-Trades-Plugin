@@ -1,0 +1,5 @@
+name: No-Villager-Trades
+version: 0.1
+main: NoVillagerTrades
+description: Disables villager trading.
+api-version: 1.13
